@@ -1,1 +1,1 @@
-Dit is een tweede teks in de lokale repo
+Dit is een tweede in de lokale repo
